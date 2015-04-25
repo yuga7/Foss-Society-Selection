@@ -1,6 +1,6 @@
 # Foss-Society-Selection
 
-Your task is to append your name in this by sending a pull request. 
+Your task is to append your name in this by sending a pull request. Deadline is 5.30 PM
 
 ##Applicants
 
